@@ -5,7 +5,7 @@ cement==2.8.2
 certifi==2019.3.9
 chardet==3.0.4
 colorama==0.3.9
-Django==2.2.24
+Django==2.2.27
 django-crispy-forms==1.7.2
 django-storages==1.7.1
 docutils==0.14
